@@ -40,7 +40,7 @@
 #### EDA involved exploring the data to answer the key questions, such as:
 
 1. Which states are rarely contributing to honey production for the last 27 years?
-2. Which are the top 5 Honey producing states in the US ?
+2. Which are the top 5 Honey producing states in the US?
 3. What is the change in mean average price of Honey from 1995 to 2021?
 4. Which was the year when production of Honey in whole US was the highest?
 5. Which state was having the highest contribution in the year 2000?
