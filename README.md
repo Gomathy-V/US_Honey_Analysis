@@ -4,7 +4,7 @@
 - This data analysis project aims to provide insights into the US Honey consumption, including the average price of honey over the years. My aim is to explore and analyze this data to identify the trends and patterns in the average honey price and gain insights into its fluctuation over time.
 
 ### Data Sources
-- Dataset: The dataset used for this analysis is the "US_honey_dataset.csv" file, containing detailed information about average price of honey and honey production states in US.
+- Dataset: The dataset used for this analysis is the `US_honey_dataset.csv` file, containing detailed information about average price of honey and honey production states in US.
 
 #### Dataset - `US_honey_dataset.csv` Column Data Description
 
@@ -35,15 +35,15 @@
    - Data cleaning and formatting.
 
 ### Exploratory Data Analysis
-- perform an exploratory data analysis to visualize and analyze the trends.
+- Performed an exploratory data analysis to visualize and analyze the trends.
   
 #### EDA involved exploring the data to answer the key questions, such as:
 
 1. Which states are rarely contributing to honey production for the last 27 years?
 2. Which are the top 5 Honey producing states in the US ?
-3. What is the Change in mean Average price of Honey from 1995 to 2021?
+3. What is the change in mean average price of Honey from 1995 to 2021?
 4. Which was the year when production of Honey in whole US was the highest?
-5. From the above inference we get the production was highest in the year 2000, now let infer which state was having highest contribution in that year?
+5. Which state was having the highest contribution in the year 2000?
  
 ### Insights
 **Top Contributing States in honey production:**
